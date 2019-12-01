@@ -2,7 +2,7 @@
 //1, якщо значення більше нуля,
 //-1, якщо значення менше нуля,
 //0, якщо значення дорівнює нулю.
-
+// SOME NEW TEXT FROM GITHUB
 
 function showResult(x) {
     console.log(x)
